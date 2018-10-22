@@ -1,0 +1,10 @@
+:local(.CSSDemo_fromCSSModule) {
+    margin: 40px;
+    border: 5px dotted blue;
+}
+
+:local(.CSSDemo_fromCSSModule_Content) {
+    font-size: 15px;
+    text-align: center;
+    background-Color: lightgray;
+}
